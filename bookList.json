@@ -4,61 +4,73 @@
 			"Title": "The Screwtape Letters",
 			"Author": "C.S.Lewis",
 			"Publication Year": "1942"
+			"Quote": "It is funny how mortals always picture us as putting things into their minds: in reality our best work is done by keeping things out."
 		},
 		"Book2": {
 			"Title": "Submission",
 			"Author": "Michel Houellebecq",
 			"Publication Year": "2015"
+			"Quote": "It may well be impossible for people who have lived and prospered under a given social system to imagine the point of view of those who feel it offers them nothing, and who can contemplate its destruction without any particular dismay."
 		},
 		"Book3": {
 			"Title": "Notes From Underground",
 			"Author": "Fyodor Dostoyevsky",
 			"Publication Year": "1864"
+			"Quote": "Man only likes to count his troubles; he doesn't calculate his happiness"
 		},
 		"Book4": {
 			"Title": "The Strange Death of Europe",
 			"Author": "Douglas Murray",
 			"Publication Year": "2017"
+			"Quote": "To immerse oneself in popular culture for any length of time is to wallow in an almost unbearable shallowness. Was the sum of European endeavour and achievement really meant to culminate in this"
 		},
 		"Book5": {
 			"Title": "All Quiet on the Western Front",
 			"Author": "Maria Erich Remarque",
 			"Publication Year": "1929"
+			"Quote": "I am young, I am twenty years old; yet I know nothing of life but despair, death, fear, and fatuous superficiality cast over an abyss of sorrow. I see how peoples are set against one another, and in silence, unknowingly, foolishly, obediently, innocently slay one another."
 		},
 		"Book6": {
 			"Title": "Stoner",
 			"Author": "John Williams",
 			"Publication Year": "1965"
+			"Quote": "He was forty-two years old, and he could see nothing before him that he wished to enjoy and little behind him that he cared to remember."
 		},
 		"Book7": {
 			"Title": "The Road to Wigan Pier",
 			"Author": "George Orwell",
 			"Publication Year": "1937"
+			"Quote": "It is only when you meet someone of a different culture from yourself that you begin to realise what your own beliefs really are."
 		},
 		"Book8": {
 			"Title": "The Gulag Archipelago 1918-1956",
 			"Author": "Aleksandr Solzhenitsyn",
 			"Publication Year": "1973"
+			"Quote": "in order to do evil, must first believe that what they are doing is good, otherwise they can't do it"
 		},
 		"Book9": {
 			"Title": "The Master and Margarita",
 			"Author": "Mikhail Bulgakov",
 			"Publication Year": "1967"
+			"Quote": "But what can be done, the one who loves must share the fate of the one he loves."
 		},
 		"Book10": {
 			"Title": "The Third Policeman ",
 			"Author": "Flann O'Brian",
 			"Publication Year": "1967"
+			"Quote": "'Your talk I' said, 'is surely the handiwork of wisdom because not one word of it do I understand'"
 		},
 		"Book11": {
-			"Title": "The Complete Cosmiccomics",
+			"Title": "The Complete Cosmicomics",
 			"Author": "Italo Calvino",
 			"Publication Year": "1965"
+			"Quote": "time is a catastrophe, perpetual and irreversible."
 		},
 		"Book12": {
 			"Title": "The Narrow Road to The Deep North",
 			"Author": "Richard Flanagan",
 			"Publication Year": "2013"
+			"Quote": "In trying to escape the fatality of memory, he discovered with an immense sadness that pursuing the past inevitably only leads to greater loss."
 		}
 	}
 }
