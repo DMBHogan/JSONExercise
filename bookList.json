@@ -1,0 +1,64 @@
+{
+	"myBooks": {
+		"Book1": {
+			"Title": "The Screwtape Letters",
+			"Author": "C.S.Lewis",
+			"Publication Year": "1942"
+		},
+		"Book2": {
+			"Title": "Submission",
+			"Author": "Michel Houellebecq",
+			"Publication Year": "2015"
+		},
+		"Book3": {
+			"Title": "Notes From Underground",
+			"Author": "Fyodor Dostoyevsky",
+			"Publication Year": "1864"
+		},
+		"Book4": {
+			"Title": "The Strange Death of Europe",
+			"Author": "Douglas Murray",
+			"Publication Year": "2017"
+		},
+		"Book5": {
+			"Title": "All Quiet on the Western Front",
+			"Author": "Maria Erich Remarque",
+			"Publication Year": "1929"
+		},
+		"Book6": {
+			"Title": "Stoner",
+			"Author": "John Williams",
+			"Publication Year": "1965"
+		},
+		"Book7": {
+			"Title": "The Road to Wigan Pier",
+			"Author": "George Orwell",
+			"Publication Year": "1937"
+		},
+		"Book8": {
+			"Title": "The Gulag Archipelago 1918-1956",
+			"Author": "Aleksandr Solzhenitsyn",
+			"Publication Year": "1973"
+		},
+		"Book9": {
+			"Title": "The Master and Margarita",
+			"Author": "Mikhail Bulgakov",
+			"Publication Year": "1967"
+		},
+		"Book10": {
+			"Title": "The Third Policeman ",
+			"Author": "Flann O'Brian",
+			"Publication Year": "1967"
+		},
+		"Book11": {
+			"Title": "The Complete Cosmiccomics",
+			"Author": "Italo Calvino",
+			"Publication Year": "1965"
+		},
+		"Book12": {
+			"Title": "The Narrow Road to The Deep North",
+			"Author": "Richard Flanagan",
+			"Publication Year": "2013"
+		}
+	}
+}
